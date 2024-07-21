@@ -1,5 +1,5 @@
 import random
-
+import pygame as game
 while True:
     choices = ['rock', 'paper', 'scissors']
     computer = random.choice(choices)
